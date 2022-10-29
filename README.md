@@ -1,5 +1,5 @@
-# 42-Libft
-42 Proyect Libft
+# 42Libft
 
-Poyecto 42 libft, de las cosillas que habia que hacer.
-y mas.
+Description:
+
+This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.

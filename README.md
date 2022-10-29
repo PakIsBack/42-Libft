@@ -2,3 +2,4 @@
 42 Proyect Libft
 
 Poyecto 42 libft, de las cosillas que habia que hacer.
+y mas.
